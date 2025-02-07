@@ -1,6 +1,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=federicotoluzzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=6969A0&icon_color=000000&text_color=A1A1A1&bg_color=424269" alt="my Github Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=federicotoluzzo&show_icons=true&locale=en&layout=donut&langs_count=20&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=federicotoluzzo&show_icons=true&locale=en&layout=donut&langs_count=20&theme=catppuccin" alt="ovi" />
 <!--
 **TuNisiAa-guy/TuNisiAa-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
