@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,ubuntu,html,css,js,ts,react,next,java,python,proxmox,nginx)](https://skillicons.dev)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=federicotoluzzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=catppuccin_mocha" alt="my Github Stats"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=federicotoluzzo&show_icons=true&locale=en&layout=donut&langs_count=5&theme=catppuccin_mocha" alt="ovi" />
