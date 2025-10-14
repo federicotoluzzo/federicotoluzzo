@@ -1,4 +1,6 @@
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,ubuntu,html,css,js,ts,react,next,java,python,proxmox,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,ubuntu,html,css,js,ts,react,next,java,python,nginx,tailwind,intellij)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=rust,flask,postgres,fastapi)](https://skillicons.dev)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=federicotoluzzo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=catppuccin_mocha" alt="my Github Stats"/>
 
