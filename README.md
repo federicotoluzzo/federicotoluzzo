@@ -2,7 +2,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=rust,flask,postgres,fastapi)](https://skillicons.dev)
 
-[![Fuffo's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicotoluzzo)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+<!--[![Fuffo's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicotoluzzo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **TuNisiAa-guy/TuNisiAa-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
