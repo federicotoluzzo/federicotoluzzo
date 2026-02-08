@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,flask,postgres,fastapi)](https://skillicons.dev)
 
 ![Top Langs](https://github-stats-dashboard-xi.vercel.app/api/dashboard/federicotoluzzo)
-<span style="color: #FFF2;">(stats credit: misterD05)</span>
+<span style="color: #888;">(stats credit: misterD05)</span>
 
 <!--[![Fuffo's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicotoluzzo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
