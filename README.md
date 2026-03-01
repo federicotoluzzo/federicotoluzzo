@@ -1,21 +1,8 @@
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,ubuntu,html,css,js,ts,react,next,java,python,nginx,tailwind,intellij)](https://skillicons.dev)
+# Huge fan of <3
+[![My Skills](https://skillicons.dev/icons?i=linux,react,tailwind,next)](https://skillicons.dev)
+# Would love to learn
+[![My Skills](https://skillicons.dev/icons?i=rust,zig,fastapi)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=rust,flask,postgres,fastapi)](https://skillicons.dev)
+![Top Langs](./profile/stats.svg)
 
-![Top Langs](./profile/top-langs.svg)
-
-<!--[![Fuffo's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicotoluzzo)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**TuNisiAa-guy/TuNisiAa-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pronouns 🗣️🔥: he/they
