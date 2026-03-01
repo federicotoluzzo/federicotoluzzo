@@ -4,5 +4,3 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,zig,fastapi)](https://skillicons.dev)
 
 ![Top Langs](./profile/stats.svg)
-
-Pronouns 🗣️🔥: he/they
